@@ -1,20 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.a004c0ac.css",
-    "main.js": "/static/js/main.e2fd899c.js",
+    "main.css": "/static/css/main.aa291a73.css",
+    "main.js": "/static/js/main.62afeec6.js",
+    "static/js/636.04cf4ade.chunk.js": "/static/js/636.04cf4ade.chunk.js",
+    "static/js/279.d83834fe.chunk.js": "/static/js/279.d83834fe.chunk.js",
+    "static/js/883.eef5376b.chunk.js": "/static/js/883.eef5376b.chunk.js",
+    "static/media/my-profile.jpg": "/static/media/my-profile.451052e88f140a20f1ff.jpg",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/img-8.jpg": "/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
     "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "static/media/img-16.jpg": "/static/media/img-16.b1d598e00634c5980d6d.jpg",
+    "static/media/img-23.jpg": "/static/media/img-23.23326e4cc8811c6f2f0c.jpg",
+    "static/media/blog1.md": "/static/media/blog1.5c02fb448ccbde2d0b8f.md",
     "index.html": "/index.html",
-    "main.a004c0ac.css.map": "/static/css/main.a004c0ac.css.map",
-    "main.e2fd899c.js.map": "/static/js/main.e2fd899c.js.map"
+    "static/media/blog2.md": "/static/media/blog2.e66bfbdf25fe8b49bb66.md",
+    "static/media/blog3.md": "/static/media/blog3.df0b950eba8808e038ff.md",
+    "main.aa291a73.css.map": "/static/css/main.aa291a73.css.map",
+    "main.62afeec6.js.map": "/static/js/main.62afeec6.js.map"
   },
   "entrypoints": [
-    "static/css/main.a004c0ac.css",
-    "static/js/main.e2fd899c.js"
+    "static/css/main.aa291a73.css",
+    "static/js/main.62afeec6.js"
   ]
 }

@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.aa291a73.css",
-    "main.js": "/static/js/main.62afeec6.js",
-    "static/js/636.04cf4ade.chunk.js": "/static/js/636.04cf4ade.chunk.js",
-    "static/js/279.d83834fe.chunk.js": "/static/js/279.d83834fe.chunk.js",
-    "static/js/883.eef5376b.chunk.js": "/static/js/883.eef5376b.chunk.js",
+    "main.css": "/static/css/main.18b6bf99.css",
+    "main.js": "/static/js/main.da901aed.js",
+    "static/js/162.55461ec5.chunk.js": "/static/js/162.55461ec5.chunk.js",
+    "static/js/805.2d880e83.chunk.js": "/static/js/805.2d880e83.chunk.js",
+    "static/js/832.fb9f3f63.chunk.js": "/static/js/832.fb9f3f63.chunk.js",
     "static/media/my-profile.jpg": "/static/media/my-profile.451052e88f140a20f1ff.jpg",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
@@ -13,15 +13,15 @@
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "static/media/img-16.jpg": "/static/media/img-16.b1d598e00634c5980d6d.jpg",
     "static/media/img-23.jpg": "/static/media/img-23.23326e4cc8811c6f2f0c.jpg",
-    "static/media/blog1.md": "/static/media/blog1.5c02fb448ccbde2d0b8f.md",
+    "static/media/build-react-app-from-scratch.md": "/static/media/build-react-app-from-scratch.5c02fb448ccbde2d0b8f.md",
     "index.html": "/index.html",
-    "static/media/blog2.md": "/static/media/blog2.e66bfbdf25fe8b49bb66.md",
-    "static/media/blog3.md": "/static/media/blog3.df0b950eba8808e038ff.md",
-    "main.aa291a73.css.map": "/static/css/main.aa291a73.css.map",
-    "main.62afeec6.js.map": "/static/js/main.62afeec6.js.map"
+    "static/media/microservice-based-architecture.md": "/static/media/microservice-based-architecture.e66bfbdf25fe8b49bb66.md",
+    "static/media/cloud-technologies-importance.md": "/static/media/cloud-technologies-importance.df0b950eba8808e038ff.md",
+    "main.18b6bf99.css.map": "/static/css/main.18b6bf99.css.map",
+    "main.da901aed.js.map": "/static/js/main.da901aed.js.map"
   },
   "entrypoints": [
-    "static/css/main.aa291a73.css",
-    "static/js/main.62afeec6.js"
+    "static/css/main.18b6bf99.css",
+    "static/js/main.da901aed.js"
   ]
 }

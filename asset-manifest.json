@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.18b6bf99.css",
-    "main.js": "/static/js/main.f3b71a98.js",
+    "main.js": "/static/js/main.da901aed.js",
     "static/js/162.55461ec5.chunk.js": "/static/js/162.55461ec5.chunk.js",
     "static/js/805.2d880e83.chunk.js": "/static/js/805.2d880e83.chunk.js",
     "static/js/832.fb9f3f63.chunk.js": "/static/js/832.fb9f3f63.chunk.js",
@@ -18,10 +18,10 @@
     "static/media/microservice-based-architecture.md": "/static/media/microservice-based-architecture.e66bfbdf25fe8b49bb66.md",
     "static/media/cloud-technologies-importance.md": "/static/media/cloud-technologies-importance.df0b950eba8808e038ff.md",
     "main.18b6bf99.css.map": "/static/css/main.18b6bf99.css.map",
-    "main.f3b71a98.js.map": "/static/js/main.f3b71a98.js.map"
+    "main.da901aed.js.map": "/static/js/main.da901aed.js.map"
   },
   "entrypoints": [
     "static/css/main.18b6bf99.css",
-    "static/js/main.f3b71a98.js"
+    "static/js/main.da901aed.js"
   ]
 }
